@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Mascot](https://github.com/g-caldwell/SMART-T/blob/main/README%20Assets/zumoMascot.jpg)
+
+</div>
 
 <h1 align="center">SMART-T</h1>
 
