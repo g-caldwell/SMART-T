@@ -12,7 +12,7 @@
 
 # 3 Point Mapping Technique
 
-<p>SMART-T uses a mapping technique that derrives the location of points from preceeding ones. After 3 points have been identified, SMART-T can calculate the location of a circle's center and move to that point.</p
+<p>SMART-T uses a mapping technique that derrives the location of points from preceeding ones. After 3 points have been identified, SMART-T can calculate the location of a circle's center and move to that point.</p>
 
 ![Mapping Visual](https://github.com/g-caldwell/SMART-T/blob/main/README%20Assets/mappingVisual.png)
 
