@@ -9,6 +9,9 @@
 <p align="center"><strong>SMART-T (Sumo-based Mobile Autonomous Robot w/ Tank-Treads) implements simultaneous localization and mapping conepts as well as sumo functionality on the Pololu Zumo 32U4 platform. It is intended to compete in robotic sumo events</strong></p><br/><br/>
 
 # 3 Point Mapping Technique
+
+<p align="center">SMART-T uses a mapping technique that derrives the location of points from preceeding ones. After 3 points have been identified, SMART-T can calculate the location of a circle's center and move to that point.</p><br/><br/>
+
 ![Mapping Visual](https://github.com/g-caldwell/SMART-T/blob/main/README%20Assets/mappingVisual.png)
 
 # Centerpoint Formula
