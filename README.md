@@ -17,6 +17,9 @@
 ![Mapping Visual](https://github.com/g-caldwell/SMART-T/blob/main/README%20Assets/mappingVisual.png)
 
 # Centerpoint Formula
+
+<p>The algebraic linearization of the general equation for a circle, as well as the formula for finding the radius given the values of the center's location.</p>
+
 ![Centerpoint](https://github.com/g-caldwell/SMART-T/blob/main/README%20Assets/mappingMath.png)
 
 </div>
